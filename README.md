@@ -5,8 +5,8 @@
 This project aims to fine-tune a T5 model to automatically generate titles for scientific papers based on their abstracts. The project demonstrates the complete Deep Learning workflow including Data Analysis, Model Optimization (Weight Decay, Warmup), and Inference.
 
 ## 2. Team Members
-| Student Name | Student ID | Role |
-| :--- | :--- | :--- |
+| Student Name | Student ID |
+| :--- | :--- |
 | Ngo Hoang Anh | 2201140004 |
 | Tran Ngoc Tu | 2201140080 | 
 | Vu Minh Hieu | 2201140030 | 

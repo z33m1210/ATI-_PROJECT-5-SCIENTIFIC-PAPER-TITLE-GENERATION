@@ -16,8 +16,7 @@ This project aims to fine-tune a T5 model to automatically generate titles for s
 - **`ATI_Final_report.pdf`**: Final written report analyzing the methodology and results.
 
 ## 4. Trained Model
-https://drive.google.com/drive/folders/1b8JznRVbkYom1iIZFoBErdfksYsPk6kw?usp=share_link
-
+https://drive.google.com/file/d/1tJgA1bAM4sMKlfGWJxl0pa9U-E3TT64x/view?usp=sharing
 ## 5. How to Run
 1. Open the `.ipynb` file in Google Colab.
 2. Upload the `arxiv_data.csv` dataset.
